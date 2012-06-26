@@ -1,0 +1,28 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\Documents and Settings\JDI2\My Documents\First Worlds\Word Game\Word Game_rsc.zip
+LAST_COMPILE_VERSION: 479.1086
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: ON
+PACKAGE_TYPE: 0
+PACKAGE_DMB_HUB: MechaDestroyerJD.SSSSS
+PACKAGE_DMB_EXECHECK: ON
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: ON
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: C:\Documents and Settings\JDI2\My Documents\First Worlds\Word Game\Word Game_src.zip
+FILE: words.dm
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: List.txt
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Users\JDI\Documents\First Worlds\Word Game\Word Game.zip
+PACKAGE_DMS_NAME: C:\Documents and Settings\JDI2\My Documents\First Worlds\Word Game\Word Game_link.zip
+LAST_COMPILE_TIME: 1293494515
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: L.txt, 1.wav, 2.wav,3.wav, 4.wav, 5.wav, 6.wav, 7.wav
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS

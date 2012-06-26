@@ -1,0 +1,36 @@
+// DM Environment file for Word Game.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "4k Word Game Folders"
+#define FILE_DIR "4k Word Game Folders/4k Word Game"
+#define FILE_DIR "4k Word Game Folders/4k Word Game/backup"
+#define FILE_DIR "4k Word Game Folders/Word Game"
+#define FILE_DIR "4k Word Game Folders/Word Game 2"
+#define FILE_DIR "4k Word Game Folders/Word Game 2/backup"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "bugs.dm"
+#include "errors.dm"
+#include "help.dm"
+#include "ideas.dm"
+#include "mobs.dm"
+#include "modes.dm"
+#include "procs.dm"
+#include "update.dm"
+#include "Word Game.dm"
+#include "words.dm"
+#include "interface.dmf"
+#include "field.dmm"
+// END_INCLUDE
+
+
