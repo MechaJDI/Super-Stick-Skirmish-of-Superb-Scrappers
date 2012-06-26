@@ -6,12 +6,6 @@
 // END_INTERNALS
 // BEGIN_FILE_DIR
 #define FILE_DIR .
-#define FILE_DIR "4k Word Game Folders"
-#define FILE_DIR "4k Word Game Folders/4k Word Game"
-#define FILE_DIR "4k Word Game Folders/4k Word Game/backup"
-#define FILE_DIR "4k Word Game Folders/Word Game"
-#define FILE_DIR "4k Word Game Folders/Word Game 2"
-#define FILE_DIR "4k Word Game Folders/Word Game 2/backup"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES

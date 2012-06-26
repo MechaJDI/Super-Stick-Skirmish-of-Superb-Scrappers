@@ -14,7 +14,7 @@ PACKAGE_RSC_CLEANCHECK: OFF
 PACKAGE_DMB_CLEANCHECK: ON
 PACKAGE_DME_START: 
 PACKAGE_DME_NAME: C:\Documents and Settings\JDI2\My Documents\First Worlds\Word Game\Word Game_src.zip
-FILE: words.dm
+FILE: Word Game.dm
 PACKAGE_DMS_URL: 
 PACKAGE_DME_INFO: List.txt
 PACKAGE_DMS_RSCCHECK: OFF

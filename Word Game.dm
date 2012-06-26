@@ -1,7 +1,7 @@
 world
 	hub = "MechaDestroyerJD.SuperStickSkirmishofSuperbScrappers"
 	name = "Super Stick Skirmish of Superb Scrappers"
-	hub_password = "dragon1215"
+	hub_password = ""
 	map_format = TILED_ICON_MAP
 	New()
 		..()
